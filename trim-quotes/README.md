@@ -16,4 +16,5 @@
 <div>---------------</div>
 <i>текст в буфере</i>
 <br />
+<br />
 <img alt="Example.gif" src="https://github.com/Eric-Draven/vbscripts/raw/master/trim-quotes/Example.gif" />
