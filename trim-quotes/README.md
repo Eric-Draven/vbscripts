@@ -9,7 +9,10 @@
 
 ### Примечание
 * Работоспособность проверена в "**Windows 7**", "**Windows 8.1**" и "**Windows 10**".
-* Чтобы скрипт работал в "**Windows XP**", обязательно нужно поместить файл "**clip.exe**" из [этого архива](https://github.com/Eric-Draven/vbscripts/raw/master/trim-quotes/clip/clip.zip) в папку "**C:\WINDOWS\system32**". Обратите внимание, что "**clip.exe**" - не оригинальный файл от "Microsoft" из более поздних версий "Windows"! Посмотреть искодный код файла можно [здесь](https://github.com/Eric-Draven/vbscripts/blob/master/trim-quotes/clip/clip.cs) или в файле "**clip.cs**" внутри архива. Если есть желание, можно создать свой собственный файл "**clip.exe**", запустив "**clip.bat**" в одной папке с "**clip.cs**" (при наличии в системе "[.NET Framework 3.5](https://www.microsoft.com/ru-ru/download/details.aspx?id=21)). Результат проверки файла "**clip.exe**" на сайте "[VirusTotal](https://www.virustotal.com/ru/file/2569e845be366702c492d0b50aa2bbd45340d1733434380ebee5829b1ae61013/analysis/1494281346/)" - ( 0 / 61 )
+* Чтобы скрипт работал в "**Windows XP**", обязательно нужно:
+  * поместить файл "**clip.exe**" из [этого архива](https://github.com/Eric-Draven/vbscripts/raw/master/trim-quotes/clip/clip.zip) в папку "**C:\WINDOWS\system32**".
+  * установить [Microsoft .NET Framework 3.5](https://www.microsoft.com/ru-ru/download/details.aspx?id=21)
+> Обратите внимание, что "**clip.exe**" - не оригинальный файл от "Microsoft" из более поздних версий "Windows"! Посмотреть искодный код файла можно [здесь](https://github.com/Eric-Draven/vbscripts/blob/master/trim-quotes/clip/clip.cs) или в файле "**clip.cs**" внутри архива. Если есть желание, можно создать свой собственный файл "**clip.exe**", запустив "**clip.bat**" в одной папке с "**clip.cs**" (при наличии в системе "[Microsoft .NET Framework 3.5](https://www.microsoft.com/ru-ru/download/details.aspx?id=21)). Результат проверки файла "**clip.exe**" на сайте "[VirusTotal](https://www.virustotal.com/ru/file/2569e845be366702c492d0b50aa2bbd45340d1733434380ebee5829b1ae61013/analysis/1494281346/)" - ( 0 / 61 )
 
 ### Пример работы скрипта
 > _&nbsp;« текст в&nbsp;  
