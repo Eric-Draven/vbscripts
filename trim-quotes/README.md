@@ -19,3 +19,6 @@
 > _текст в буфере_
 
 ![Example](https://github.com/Eric-Draven/vbscripts/raw/master/trim-quotes/Example.gif)
+
+---
+> [Все работы автора](https://github.com/Eric-Draven?tab=repositories) / [VBScripts](https://github.com/Eric-Draven/vbscripts)
